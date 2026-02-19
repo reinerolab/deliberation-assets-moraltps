@@ -1,0 +1,151 @@
+{
+  "preregistrations": {
+    "total": 16,
+    "treatmentBreakdown": {
+      "flowerboy_network_6maj_2min_v1": 16
+    },
+    "percentComplete": 87.5
+  },
+  "participants": {
+    "total": 27,
+    "completeIntroSteps": 27,
+    "enterLobby": 27,
+    "beginGame": 27,
+    "finishGame": 27,
+    "complete": 14,
+    "ipTimezoneBreakdown": {
+      "undefined": 27
+    },
+    "ipCountryBreakdown": {
+      "undefined": 27
+    },
+    "possibleVPN": {
+      "true": 27
+    },
+    "browserLanguageBreakdown": {
+      "en-US": 27
+    },
+    "browserTimezoneBreakdown": {
+      "America/New_York": 27
+    },
+    "knownVPN": {
+      "undefined": 27
+    },
+    "reportingDiscussionProblems": 3,
+    "checkingIn": 8
+  },
+  "completedSampleIds": [
+    "f834e9cc-1835-4dfd-b134-c4c44d90c732",
+    "0c0569f5-9797-47b7-b62c-3483cd336223",
+    "637680da-303c-4469-8433-31be9124aa7d",
+    "6d82236a-1ea6-4497-8b17-98f4c74f2a89",
+    "34e14506-ea18-427a-b400-d0bbc329606c",
+    "0180f8b3-95b5-4042-bf90-653f656ce90d",
+    "b0743387-c793-4502-a178-4f938f3f8e99",
+    "a33f6cfc-0c57-4ce6-a941-575de5397e2a",
+    "6d18ed52-3e43-4afb-82ab-b94f15b4d45d",
+    "35f1e9c2-c534-42f3-b0ba-a9fd26d32de6",
+    "71f060a4-60c0-463d-b0b8-1643bc959b66",
+    "09f93150-8de8-4392-9912-1e14bd194ec7",
+    "85bcc190-783d-4444-a78e-532741463378",
+    "80ee70f6-fe42-4ef8-b84c-80bc4587652f"
+  ],
+  "timings": {
+    "intro": {
+      "max": 1200.077,
+      "min": 104.039,
+      "mean": 625.77756,
+      "median": 125.314
+    },
+    "countdown": {
+      "max": null,
+      "min": null,
+      "mean": null
+    },
+    "lobby": {
+      "max": 1307.208,
+      "min": 2.102,
+      "mean": 140.7829375,
+      "median": 29.671
+    },
+    "game": {
+      "max": 1446.334,
+      "min": 1355.891,
+      "mean": 1401.1125,
+      "median": 1446.334
+    },
+    "exit": {
+      "max": 282.625,
+      "min": 19.611,
+      "mean": 131.92335714285716,
+      "median": 244.103
+    },
+    "totalTime": {
+      "max": null,
+      "min": null,
+      "mean": null,
+      "median": null
+    },
+    "totalActiveTime": {
+      "max": 4236.244,
+      "min": 1481.6430000000003,
+      "mean": 2299.596354642857,
+      "median": 1845.422
+    }
+  },
+  "connections": {
+    "min": 1,
+    "max": 3,
+    "mean": 1.3703703703703705,
+    "median": 1
+  },
+  "QC": {
+    "participateAgain": {
+      "yes": 0.6,
+      "undefined": 0.4
+    },
+    "adequateCompensation": {
+      "underpaid": 0.2,
+      "undefined": 0.4,
+      "N/A": 0.4
+    },
+    "adequateTime": {
+      "adequate": 0.6,
+      "undefined": 0.4
+    },
+    "clearInstructions": {
+      "3": 0.4,
+      "4": 0.2,
+      "undefined": 0.4
+    },
+    "videoQuality": {
+      "4": 0.2,
+      "5": 0.4,
+      "undefined": 0.4
+    },
+    "joiningProblems": {
+      "no": 0.2,
+      "undefined": 0.4,
+      "yes": 0.4
+    },
+    "technicalProblems": {
+      "no": 0.4,
+      "undefined": 0.4,
+      "yes": 0.2
+    },
+    "textExpansion": [
+      "thanks!"
+    ],
+    "technicalDetail": [
+      "Camera did not initially work on one browser screen so I had difficulty joining, may be a problem on my end"
+    ],
+    "joiningDetail": [
+      "we had to restart the experiment",
+      "Problems related to technical issues"
+    ]
+  },
+  "finalPayoffs": [
+    0.9025,
+    1
+  ]
+}
